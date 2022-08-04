@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-      <h1>Landing React strapi</h1>
+      <h1 className="text-center">Landing React strapi</h1>
     </div>
   );
 }
