@@ -1,11 +1,13 @@
+import Slider from './components/Slider.js';
 
+const App = () => {
+  
 
-function App() {
   return (
     <div>
-      <h1 className="text-center">Landing React strapi</h1>
+      <Slider></Slider>
     </div>
   );
-}
+};
 
 export default App;
